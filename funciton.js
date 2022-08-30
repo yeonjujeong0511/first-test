@@ -1,3 +1,3 @@
-function main(){
-  let main = "main"
+function main(element){
+  element.style.backgroundColor = "pink"
 }
